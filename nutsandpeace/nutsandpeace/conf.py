@@ -26,7 +26,7 @@ SITE_URL = "https://example.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "nutsandpeace@gmail.com"
-BLOG_DESCRIPTION = "yo man! ideas"  # (translatable)
+BLOG_DESCRIPTION = "nut ideas for peace"  # (translatable)
 
 # Nikola is multilingual!
 #
