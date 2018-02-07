@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2018-01-31T17:43:00Z</lastmod>
+  <lastmod>2018-02-03T06:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/2018/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-01-31T18:06:00Z</lastmod>
+  <lastmod>2018-02-07T17:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
@@ -31,6 +31,6 @@
  </url>
  <url>
   <loc>https://example.com/posts/regulating-the-new-kid-on-the-block/</loc>
-  <lastmod>2018-01-31T18:00:00Z</lastmod>
+  <lastmod>2018-02-07T18:00:00Z</lastmod>
  </url>
 </urlset>
