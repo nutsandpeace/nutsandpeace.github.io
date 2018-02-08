@@ -6,31 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://nutsandpeace.github.io/</loc>
   <lastmod>2018-02-07T18:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2018/</loc>
+  <loc>https://nutsandpeace.github.io/2018/</loc>
   <lastmod>2018-01-31T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-02-08T17:49:00Z</lastmod>
+  <loc>https://nutsandpeace.github.io/archive.html</loc>
+  <lastmod>2018-02-08T18:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://nutsandpeace.github.io/categories/</loc>
   <lastmod>2018-01-31T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://nutsandpeace.github.io/galleries/</loc>
   <lastmod>2018-01-31T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://nutsandpeace.github.io/listings/</loc>
   <lastmod>2018-01-31T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/regulating-the-new-kid-on-the-block/</loc>
+  <loc>https://nutsandpeace.github.io/posts/regulating-the-new-kid-on-the-block/</loc>
   <lastmod>2018-02-07T18:03:00Z</lastmod>
  </url>
 </urlset>

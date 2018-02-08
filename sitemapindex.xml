@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2018-02-08T17:49:00Z</lastmod>
+  <loc>https://nutsandpeace.github.io/galleries/rss.xml</loc>
+  <lastmod>2018-02-08T18:01:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2018-02-07T17:54:00Z</lastmod>
+  <loc>https://nutsandpeace.github.io/rss.xml</loc>
+  <lastmod>2018-02-08T18:01:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2018-02-08T17:49:00Z</lastmod>
+  <loc>https://nutsandpeace.github.io/sitemap.xml</loc>
+  <lastmod>2018-02-08T18:01:00Z</lastmod>
  </sitemap>
 </sitemapindex>
