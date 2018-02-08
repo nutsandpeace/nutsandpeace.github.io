@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Vishnu Menon"  # (translatable)
 BLOG_TITLE = "nutsandpeace"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://nutsandpeace.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -141,7 +141,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "hack"
+THEME = "material-theme"
 
 
 
@@ -1361,7 +1361,7 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {'header_color': 'warning'}
 GLOBAL_CONTEXT['HACK_VARIANT'] = 'solarized-dark'
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
