@@ -1,0 +1,219 @@
+#+BEGIN_COMMENT
+.. title: With cryptos, Hamlet rightfully asks, "To be, or not to be"
+.. slug: with-cryptos-hamlet-rightfully-asks-to-be-or-not-to-be
+.. date: 2018-02-12 23:09:00 UTC+05:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+
+With cryptos, Hamlet rightfully  asks : To be, or not  be; that is the
+question :
+
+I write this only out of my  own understanding of the market as I have
+been following  it from over  a year now. I  began my research  in the
+area  for  my master’s  dissertation  that  was  due, I  took  extreme
+interest in  this because it  coincided with financial  technology and
+economics at  large.  
+(/For  people curious about  what happened  to my
+dissertation please read on after the end of the article/)
+
+* To Be:
+
+The best aspects of crypto come from  the fact that it is based out of
+the cryptographic system of Blockchain technology.  They are;
+
+** Decentralised/  Distributed   Ledger
+A  ledger  is   nothing  but  a bookkeeping tool  in accounting,  
+where all transactions  are recorded 
+and stored, Ledgers used to be paper  records back in the day but when
+computers   came  along   with   spreadsheets,  ledgers   are  now   a
+database.  This  database,  distributed across  various  participants/
+users across a network on the  internet is a distributed ledger. Users
+across the world  save, synchronise and share the  information on this
+ledger which make every user a witness to the transactions.These users
+form what is called a ‘Node’.  These nodes don’t communicate with each
+other  through  a central  system  rather,  each  of these  nodes  are
+independent, decentralised  and has  a copy  of the  blockchain. These
+nodes then form a ‘Block’ and each block has a cryptographic hash from
+the previous block and this forms what we call a Blockchain.
+
+Note: For  a Layman, This  database is managed by  all the users  in a
+peer to peer network.
+
+** Eliminates Middlemen
+As seen  from the previous  point, there  is no
+central authority needed to validate transactions, the folks who stand
+to lose  the most  from this  disruption would be  the likes  of VISA,
+Mastercard  and other  payment gateways  as they  would become  nearly
+obsolete  with the  intervention of  blockchain and  the decentralised
+ledger system.
+
+** Geographic advantage
+This, I must say, is where its application would
+really be of value. While I  was studying abroad, the biggest pain was
+having money transferred from home to my bank account, it would easily
+take  at   least  24  hours  if   not  more  to  get   it  transferred
+internationally. Considering there were no bank holidays. Cryptos make
+it possible to move money anywhere  across the world within 20 minutes
+or so,  as long you have  an internet connection and  a digital wallet
+of course.
+
+** Less transaction cost
+Eliminating middlemen automatically means there
+are  no  hidden   costs  or  extra  transaction   costs  for  services
+provided. This area is where banks and payment gateways make a killing
+in terms of their profits.
+
+** You own it
+Your crypto wallet is  owned and operated by  no one else
+apart  from you  and  thus, you’re  responsible  for all  transactions
+performed. This  is both an advantage  and a disadvantage as  we shall
+see later.
+
+The markets never close: Gordon  Gekko famously said That ‘MONEY NEVER
+SLEEPS’. The crypto market is like  the stock markets on cocaine. When
+you  trade in  the markets  all stock  markets having  an opening  and
+closing time. With cryptos you can trade for as long as you lose.
+
+
+* Not to be
+
+** Volatility
+You don’t have to be  the Oracle of Omaha to have figured
+out  the crazy  price swings  on  a day  to  day basis  in the  crypto
+trade. These swings  are unsustainable in the long  run, investors who
+are very bullish  and who have the hang of  intraday trading will find
+it the best playground but if you are a value investor and haven’t got
+the time to look at your screen  day in and day out, then I’d suggest,
+you  find  alternative  source  of investments.The  story  of  anxious
+bitcoin investors  is not a myth  guys! such price swings  make anyone
+even just following these markets anxious let alone having invested in
+it.
+
+** Demand and  Supply Seriously? 
+The  main determinant of any  market is
+demand and supply, even for stock markets in that regard. When we talk
+about a  stock market we  are talking about multiple  companies across
+multiple sectors  all over  a country. That  is very  well diversified
+into  the entire  economy.  When  we talk  about  crypto  what does  a
+currency truly  offer when most investors  are buying it only  to make
+money  out of  its volatility.  Also, the  argument that  bitcoins are
+valuable because  their limited in  number is ridiculous.  That’s like
+saying I buy a  car from ford because they make only  X number of cars
+per year, while I can clearly  buy from any other car manufacturer. So
+where is the  lack of demand of  a product when you  have thousands of
+cryptocurrencies to choose from.
+
+
+** Intrinsic value
+Intrinsic value means  actual value or a  real value,
+this term has been used even by philosophers suggesting its importance
+in morality and  ethical decision making. In finance  however, this is
+done by discounting  its future cash flows to its  present value. With
+tangible things  like gold we  always have high intrinsic  value, with
+intangibles this  gets tricky. When  you own  an equity what  gives it
+value is that you  own part of an institution, and  the way that works
+in the stock markets is that you get annual dividends and interests on
+your holdings.  With cryptos  there is no  interest and  dividends the
+price of a crypto is determined solely, by what another guy is willing
+to pay for it.  These currencies at the end of the  day are bought and
+sold  with different  fiat  currencies  and so  by  itself  it has  no
+value. Sure, miners work hard and solve cryptographic problems to mine
+these coins but that can not really be valued monetarily.
+
+Regulation: Read my previous article.
+
+** Speed and Scalability
+In an interview J.P Morgan’s  infamous (in the
+ crypto world) CEO Jamie Dimon said that there is a delay in executing
+ trades with blockchain,  it takes anywhere between 12  and 20 minutes
+ to execute a  trade here while present systems  execute equity trades
+ within a fraction  of a second. Will we see  the entire population of
+ the world using  one single cryptocurrency? Very  Highly unlikely. So
+ the sheer  scale of people and  operations that it needs  to cater is
+ too large for it to sustain.
+
+** Gone  forevern
+The  ‘would  have’  been  millionaires.  The  biggest
+disadvantage in this  system is that once you lose  your wallet, let’s
+say you forgot your password or any issue like that. Once you lose it,
+Puff, its gone and there is nothing you can do about it.  Remember the
+advantage no  5. You own  it, Now if you  transfer funds to  the wrong
+account  or   you  transfer  more   than  what  you  had   to,  you’re
+screwed.  There  is no  way  to  reverse  the transaction  other  than
+requesting the owner of the account and if that owner refuses there is
+nothing you  can do to  claim your money back.  But with banks  we can
+reverse payments etc.
+
+** The whales
+There emerged reports about how 40% of bitcoins were owned
+by a handful of people. Also to  be taken into account is that Satoshi
+Nakamoto owns about  1 million bitcoins these whales  can become major
+market disruptors if they start to sell even small proportion of their
+holdings.
+
+** Lets talk Security
+The blockchain in itself is a highly secure system
+and  its hard  to  manipulate. With  the  trading in  cryptocurrencies
+however, the  same can not  be said.  Many exchanges have  been hacked
+across the world with millions  of bitcoins and other currencies being
+stolen. Millions of  dollars have been wiped out  from these exchanges
+and  only a  very  few  of the  exchanges  have  paid their  customers
+back. These  hacks are very hard  to investigate giving the  nature of
+anonymity of the currency. Your Digital  wallet can still be hacked is
+your personal  computer is hacked. 
+
+** Too good to be true
+I guess  a story where the common men outsmart a
+system is  fantastic. Bitcoin promised just  that- anonymity. Bitcoins
+was primarily used  in Silkroad before it shot to  fame last year. The
+anonymity  though is  a blessing  to  many, most  investors prefer  to
+remain known and  want to disclose their  investments and transactions
+to   authorities.  These   investors   are  staying   away  from   the
+trade. Bitcoin  investors have no one  to seek advice from  as Satoshi
+Nakamoto is anonymous.  Ethereum led by Vitalik Buterin  is a blessing
+to  the   industry  as  he   and  his  company  have   become  visible
+personalities for people to talk, interact and learn about the endless
+possibly this technology can offer.  To believe that the crypto market
+will take power  away from governments and will let  people decide the
+fate  of an  economy is  genuinely  a story  that  is too  good to  be
+true. People elected to be in power are there for a reason and central
+banks exist to  keep a close eye  on how a country’s  economy holds up
+and don’t  entertain any kind of  uncertainty that puts the  system at
+risk.
+ 
+In conclusion,  Be the master  of your fate,  and the captain  of your
+soul. Do what you want and whatever makes you happy because none of us
+know what we are talking about.
+
+
+
+*The dissertation story*  After months of research  whilst I explained
+the whole thing to my Supervisor I understood that this technology was
+clearly not for everyone. After  pitching my dissertation proposal for
+about 1 hour:
+
+Supervisor:  “This Block  thing that  you  talk about,  are there  any
+research papers by notable authors on this?”
+
+(*Me in my mind:  Are you F!#$ing Kidding me! you  called it the Block
+thing! After 1 hour of me saying Blockchain Technology and my research
+proposal with that heading right in front of your face!*)
+
+Me: “There are few sir, not many  though, it is a field where there is
+a lot of research  as we speak there are a lot  of articles by experts
+on the field and a paper from the World Economic Forum.”
+
+Supervisor: “ I don’t think that would be credible enough please check
+for more resources or I’d suggest you change your topic”
+
+And so ladies and gentlemen I had  to change my topic 2 more times and
+wrote my dissertation on  Corporate governance which was uninteresting
+when compared with Blockchain technology.
+
+
+

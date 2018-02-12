@@ -1,0 +1,1 @@
+/home/vinodh/vizz/nutsandpeace/nutsandpeace/conf.py
